@@ -1,0 +1,65 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net6.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.13" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.13">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.13" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.13">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="ReportViewerCore.WinForms" Version="15.1.19" />
+		<PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\CineCordobaApi\CineCordobaApi.csproj" />
+		<ProjectReference Include="..\CineCordobaBack\CineCordobaBack.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="Reporte\Cordoba_Cine_GRUPO_N9DataSet.Designer.cs">
+	    <DesignTime>True</DesignTime>
+	    <AutoGen>True</AutoGen>
+	    <DependentUpon>Cordoba_Cine_GRUPO_N9DataSet.xsd</DependentUpon>
+	  </Compile>
+	  <Compile Update="Reporte\DataSet1.Designer.cs">
+	    <DesignTime>True</DesignTime>
+	    <AutoGen>True</AutoGen>
+	    <DependentUpon>DataSet1.xsd</DependentUpon>
+	  </Compile>
+	  <Compile Update="Servicios\Implementacion\DataSet1.Designer.cs">
+	    <DesignTime>True</DesignTime>
+	    <AutoGen>True</AutoGen>
+	    <DependentUpon>DataSet1.xsd</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="Reporte\Cordoba_Cine_GRUPO_N9DataSet.xsd">
+	    <Generator>MSDataSetGenerator</Generator>
+	    <LastGenOutput>Cordoba_Cine_GRUPO_N9DataSet.Designer.cs</LastGenOutput>
+	  </None>
+	  <None Update="Reporte\DataSet1.xsd">
+	    <Generator>MSDataSetGenerator</Generator>
+	    <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+	  </None>
+	  <None Update="Servicios\Implementacion\DataSet1.xsd">
+	    <Generator>MSDataSetGenerator</Generator>
+	    <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+	  </None>
+	</ItemGroup>
+
+</Project>

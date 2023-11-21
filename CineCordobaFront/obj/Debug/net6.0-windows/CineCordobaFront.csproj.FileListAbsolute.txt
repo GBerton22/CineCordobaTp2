@@ -1,0 +1,583 @@
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.Development.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Humanizer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmConsultarFunciones.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.Development.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Humanizer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmConsultarFunciones.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Gonza\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.Development.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Humanizer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmConsultarFunciones.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.Development.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Humanizer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmConsultarFunciones.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.AltaFunciones.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmAltaClientes.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.frmCreditos.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.frmMenu.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmComprobanteVenta.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.Development.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Humanizer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.AltaFunciones.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmAltaClientes.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmComprobanteVenta.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmConsultarFunciones.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.frmCreditos.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.frmMenu.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CordobaCineApp.Presentacion.FrmConsultaGeneroTipoSala.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\Tp1 Copia\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.Development.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\appsettings.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.exe
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Humanizer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaApi.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\bin\Debug\net6.0-windows\CineCordobaBack.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.AssemblyReference.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.AltaFunciones.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmAltaClientes.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmComprobanteVenta.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmConsultarCliente.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.FrmConsultarFunciones.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.frmCreditos.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.frmMenu.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.Presentacion.FrmModificarCliente.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CordobaCineApp.Presentacion.FrmConsultaGeneroTipoSala.resources
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.GenerateResource.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfoInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.AssemblyInfo.cs
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.csproj.CopyComplete
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\refint\CineCordobaFront.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\CineCordobaFront.genruntimeconfig.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\obj\Debug\net6.0-windows\ref\CineCordobaFront.dll
