@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmConsultarCliente));
             BtnConsultar = new Button();
             BtnSalir = new Button();
             dgvConsultarClientes = new DataGridView();
@@ -45,7 +46,9 @@
             LblSeleccionarCliente = new Label();
             cboSeleccionarCliente = new ComboBox();
             LblTitulo = new Label();
+            pictureBox1 = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)dgvConsultarClientes).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // BtnConsultar
@@ -157,6 +160,7 @@
             // LblSeleccionarCliente
             // 
             LblSeleccionarCliente.AutoSize = true;
+            LblSeleccionarCliente.BackColor = Color.Transparent;
             LblSeleccionarCliente.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
             LblSeleccionarCliente.Location = new Point(6, 95);
             LblSeleccionarCliente.Name = "LblSeleccionarCliente";
@@ -175,6 +179,7 @@
             // LblTitulo
             // 
             LblTitulo.AutoSize = true;
+            LblTitulo.BackColor = Color.Transparent;
             LblTitulo.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
             LblTitulo.Location = new Point(504, 47);
             LblTitulo.Name = "LblTitulo";
@@ -182,21 +187,38 @@
             LblTitulo.TabIndex = 6;
             LblTitulo.Text = "Consultar clientes";
             // 
+            // pictureBox1
+            // 
+            pictureBox1.BackColor = Color.Transparent;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(974, 53);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(230, 137);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.TabIndex = 11;
+            pictureBox1.TabStop = false;
+            // 
             // FrmConsultarCliente
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1216, 647);
+            Controls.Add(pictureBox1);
             Controls.Add(BtnConsultar);
             Controls.Add(BtnSalir);
             Controls.Add(dgvConsultarClientes);
             Controls.Add(LblSeleccionarCliente);
             Controls.Add(cboSeleccionarCliente);
             Controls.Add(LblTitulo);
+            DoubleBuffered = true;
+            FormBorderStyle = FormBorderStyle.None;
             Name = "FrmConsultarCliente";
             Text = "FrmConsultarCliente";
             Load += FrmConsultarCliente_Load;
             ((System.ComponentModel.ISupportInitialize)dgvConsultarClientes).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -220,5 +242,6 @@
         private Label LblSeleccionarCliente;
         private ComboBox cboSeleccionarCliente;
         private Label LblTitulo;
+        private PictureBox pictureBox1;
     }
 }

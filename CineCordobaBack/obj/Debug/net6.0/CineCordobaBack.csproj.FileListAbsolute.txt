@@ -82,3 +82,17 @@ D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\
 D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.pdb
 D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.genruntimeconfig.cache
 D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\ref\CineCordobaBack.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.deps.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.runtimeconfig.json
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.csproj.AssemblyReference.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.AssemblyInfoInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.AssemblyInfo.cs
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\obj\Debug\net6.0\refint\CineCordobaBack.dll
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.pdb
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.genruntimeconfig.cache
+D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaBack\obj\Debug\net6.0\ref\CineCordobaBack.dll

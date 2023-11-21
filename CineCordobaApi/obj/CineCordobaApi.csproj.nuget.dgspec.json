@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaApi\\CineCordobaApi.csproj": {}
+    "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaApi\\CineCordobaApi.csproj": {}
   },
   "projects": {
-    "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaApi\\CineCordobaApi.csproj": {
+    "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaApi\\CineCordobaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaApi\\CineCordobaApi.csproj",
+        "projectUniqueName": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaApi\\CineCordobaApi.csproj",
         "projectName": "CineCordobaApi",
-        "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaApi\\CineCordobaApi.csproj",
+        "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaApi\\CineCordobaApi.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaApi\\obj\\",
+        "outputPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaBack\\CineCordobaBack.csproj": {
-                "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaBack\\CineCordobaBack.csproj"
+              "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaBack\\CineCordobaBack.csproj": {
+                "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaBack\\CineCordobaBack.csproj"
               }
             }
           }
@@ -101,14 +101,14 @@
         }
       }
     },
-    "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaBack\\CineCordobaBack.csproj": {
+    "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaBack\\CineCordobaBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaBack\\CineCordobaBack.csproj",
+        "projectUniqueName": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaBack\\CineCordobaBack.csproj",
         "projectName": "CineCordobaBack",
-        "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaBack\\CineCordobaBack.csproj",
+        "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaBack\\CineCordobaBack.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaBack\\obj\\",
+        "outputPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaBack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -194,7 +194,10 @@ namespace CordobaCineApp.Presentacion
 
             // Configurar el informe
             //rvReporte.LocalReport.ReportEmbeddedResource = "CineCordobaFront.Reporte.ConsultaGeneroTSReporte.rdlc";
-            rvReporte.LocalReport.ReportPath = @"D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\TrabajoPracticoPrograII\CineCordobaTp\CineCordobaFront\Reporte\ConsultaGeneroTSReporte.rdlc";
+
+            // AQUI DEBE PONEW LA UBICACION DE ConsultaGeneroTSReporte.rdlc !
+
+            rvReporte.LocalReport.ReportPath = @"D:\EJERCICIOS TECNICATURA\PROGRAMACION 2\CineCordobaTp2\CineCordobaTp2\CineCordobaFront\Reporte\ConsultaGeneroTSReporte.rdlc";
             rvReporte.LocalReport.DataSources.Add(new ReportDataSource("DataSet1", dataTable));
             // Agregar el DataTable como fuente de datos para el informe
             //rvReporte.LocalReport.DataSources.Add(new ReportDataSource("DataSet1", dataTable));

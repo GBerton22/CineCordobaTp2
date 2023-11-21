@@ -4026,11 +4026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaFront\\CineCordobaFront.csproj",
+      "projectUniqueName": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaFront\\CineCordobaFront.csproj",
       "projectName": "CineCordobaFront",
-      "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaFront\\CineCordobaFront.csproj",
+      "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaFront\\CineCordobaFront.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaFront\\obj\\",
+      "outputPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaFront\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4047,11 +4047,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaApi\\CineCordobaApi.csproj": {
-              "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaApi\\CineCordobaApi.csproj"
+            "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaApi\\CineCordobaApi.csproj": {
+              "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaApi\\CineCordobaApi.csproj"
             },
-            "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaBack\\CineCordobaBack.csproj": {
-              "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaBack\\CineCordobaBack.csproj"
+            "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaBack\\CineCordobaBack.csproj": {
+              "projectPath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaBack\\CineCordobaBack.csproj"
             }
           }
         }

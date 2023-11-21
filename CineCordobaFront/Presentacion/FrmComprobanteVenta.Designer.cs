@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmComprobanteVenta));
             gboxMaestro = new GroupBox();
             btnElegirPeli = new Button();
             btnBuscarCLiente = new Button();
@@ -80,15 +81,18 @@
             btnAgregarEntrada = new Button();
             cboPromo = new ComboBox();
             label19 = new Label();
+            pictureBox1 = new PictureBox();
             gboxMaestro.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvComprobante).BeginInit();
             gboxPeli.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             gboxPromo.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // gboxMaestro
             // 
+            gboxMaestro.BackColor = Color.Transparent;
             gboxMaestro.Controls.Add(btnElegirPeli);
             gboxMaestro.Controls.Add(btnBuscarCLiente);
             gboxMaestro.Controls.Add(txtCodigoVendedor);
@@ -107,7 +111,7 @@
             gboxMaestro.Controls.Add(label2);
             gboxMaestro.Location = new Point(23, 27);
             gboxMaestro.Name = "gboxMaestro";
-            gboxMaestro.Size = new Size(761, 198);
+            gboxMaestro.Size = new Size(788, 198);
             gboxMaestro.TabIndex = 0;
             gboxMaestro.TabStop = false;
             gboxMaestro.Text = "Datos de comprobante";
@@ -166,6 +170,7 @@
             // 
             // cboVendedor
             // 
+            cboVendedor.DropDownStyle = ComboBoxStyle.DropDownList;
             cboVendedor.FormattingEnabled = true;
             cboVendedor.Location = new Point(128, 108);
             cboVendedor.Name = "cboVendedor";
@@ -191,6 +196,7 @@
             // 
             // cboFormasPago
             // 
+            cboFormasPago.DropDownStyle = ComboBoxStyle.DropDownList;
             cboFormasPago.FormattingEnabled = true;
             cboFormasPago.Location = new Point(128, 155);
             cboFormasPago.Name = "cboFormasPago";
@@ -199,6 +205,7 @@
             // 
             // cboSucursal
             // 
+            cboSucursal.DropDownStyle = ComboBoxStyle.DropDownList;
             cboSucursal.FormattingEnabled = true;
             cboSucursal.Location = new Point(437, 149);
             cboSucursal.Name = "cboSucursal";
@@ -225,6 +232,7 @@
             // 
             // cboCliente
             // 
+            cboCliente.DropDownStyle = ComboBoxStyle.DropDownList;
             cboCliente.FormattingEnabled = true;
             cboCliente.Location = new Point(433, 65);
             cboCliente.Name = "cboCliente";
@@ -259,7 +267,7 @@
             dgvComprobante.Name = "dgvComprobante";
             dgvComprobante.ReadOnly = true;
             dgvComprobante.RowTemplate.Height = 25;
-            dgvComprobante.Size = new Size(761, 217);
+            dgvComprobante.Size = new Size(788, 217);
             dgvComprobante.TabIndex = 1;
             dgvComprobante.CellContentClick += dgvComprobante_CellContentClick;
             // 
@@ -329,6 +337,7 @@
             // 
             // gboxPeli
             // 
+            gboxPeli.BackColor = Color.Transparent;
             gboxPeli.Controls.Add(btnElegirPromo);
             gboxPeli.Controls.Add(cboTipoSalas);
             gboxPeli.Controls.Add(button4);
@@ -344,7 +353,7 @@
             gboxPeli.Enabled = false;
             gboxPeli.Location = new Point(23, 231);
             gboxPeli.Name = "gboxPeli";
-            gboxPeli.Size = new Size(761, 101);
+            gboxPeli.Size = new Size(788, 101);
             gboxPeli.TabIndex = 2;
             gboxPeli.TabStop = false;
             // 
@@ -360,6 +369,7 @@
             // 
             // cboTipoSalas
             // 
+            cboTipoSalas.DropDownStyle = ComboBoxStyle.DropDownList;
             cboTipoSalas.FormattingEnabled = true;
             cboTipoSalas.Location = new Point(158, 58);
             cboTipoSalas.Name = "cboTipoSalas";
@@ -420,6 +430,7 @@
             // 
             // cbofuncion
             // 
+            cbofuncion.DropDownStyle = ComboBoxStyle.DropDownList;
             cbofuncion.FormattingEnabled = true;
             cbofuncion.Location = new Point(383, 41);
             cbofuncion.Name = "cbofuncion";
@@ -429,6 +440,7 @@
             // 
             // cboPeli
             // 
+            cboPeli.DropDownStyle = ComboBoxStyle.DropDownList;
             cboPeli.FormattingEnabled = true;
             cboPeli.Location = new Point(158, 24);
             cboPeli.Name = "cboPeli";
@@ -482,6 +494,7 @@
             // 
             // txtSubtotal
             // 
+            txtSubtotal.Enabled = false;
             txtSubtotal.Location = new Point(107, 620);
             txtSubtotal.Name = "txtSubtotal";
             txtSubtotal.Size = new Size(86, 23);
@@ -489,6 +502,7 @@
             // 
             // txtTotal
             // 
+            txtTotal.Enabled = false;
             txtTotal.Location = new Point(107, 649);
             txtTotal.Name = "txtTotal";
             txtTotal.Size = new Size(86, 23);
@@ -517,13 +531,14 @@
             // 
             // gboxPromo
             // 
+            gboxPromo.BackColor = Color.Transparent;
             gboxPromo.Controls.Add(btnEditarEntrada);
             gboxPromo.Controls.Add(btnAgregarEntrada);
             gboxPromo.Controls.Add(cboPromo);
             gboxPromo.Controls.Add(label19);
             gboxPromo.Location = new Point(23, 338);
             gboxPromo.Name = "gboxPromo";
-            gboxPromo.Size = new Size(761, 53);
+            gboxPromo.Size = new Size(788, 53);
             gboxPromo.TabIndex = 19;
             gboxPromo.TabStop = false;
             // 
@@ -549,6 +564,7 @@
             // 
             // cboPromo
             // 
+            cboPromo.DropDownStyle = ComboBoxStyle.DropDownList;
             cboPromo.FormattingEnabled = true;
             cboPromo.Location = new Point(158, 17);
             cboPromo.Name = "cboPromo";
@@ -564,12 +580,24 @@
             label19.TabIndex = 20;
             label19.Text = "Promoción";
             // 
+            // pictureBox1
+            // 
+            pictureBox1.BackColor = Color.Transparent;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(654, 538);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(266, 164);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.TabIndex = 20;
+            pictureBox1.TabStop = false;
+            // 
             // FrmComprobanteVenta
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImageLayout = ImageLayout.Zoom;
-            ClientSize = new Size(809, 676);
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Stretch;
+            ClientSize = new Size(834, 676);
             Controls.Add(gboxPromo);
             Controls.Add(btnSalir);
             Controls.Add(btnConfirmar);
@@ -582,7 +610,9 @@
             Controls.Add(dgvComprobante);
             Controls.Add(gboxMaestro);
             Controls.Add(txtNumComprobante);
-            FormBorderStyle = FormBorderStyle.SizableToolWindow;
+            Controls.Add(pictureBox1);
+            DoubleBuffered = true;
+            FormBorderStyle = FormBorderStyle.None;
             Name = "FrmComprobanteVenta";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "FrmRegistroVenta";
@@ -595,6 +625,7 @@
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             gboxPromo.ResumeLayout(false);
             gboxPromo.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -653,5 +684,6 @@
         private DataGridViewTextBoxColumn col_precio;
         private DataGridViewTextBoxColumn col_promo;
         private DataGridViewButtonColumn col_accion;
+        private PictureBox pictureBox1;
     }
 }

@@ -223,6 +223,7 @@ namespace CineCordobaFront.Presentacion
 
             await CargarSalasAsync(idSucursalSeleccionada);
 
+
         }
 
         private async Task CargarSalasAsync(int idSucursal)
@@ -234,7 +235,7 @@ namespace CineCordobaFront.Presentacion
             cboSala.DataSource = lsalas;
             cboSala.ValueMember = "id_sala";
             cboSala.DisplayMember = "tipo";
-            cboSucursal.DropDownStyle = ComboBoxStyle.DropDownList;
+            cboSala.DropDownStyle = ComboBoxStyle.DropDownList;
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)

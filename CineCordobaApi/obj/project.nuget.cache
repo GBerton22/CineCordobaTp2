@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zWA8usjQD5eQPfZb1kCbEeT2j3gixYsIETrXOHLNbULpayfijFJc1o4OOhp/oO9WWMt1D86VXw4NA1iOI2nuDQ==",
+  "dgSpecHash": "PuBHGPoFNw+uXS0PR47PKgIp53G44QJMReaeF6CKBnhwF1zTQNwc4Aws8DFSeeYC6EN+2riJxPdin3TlFk+Ccw==",
   "success": true,
-  "projectFilePath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\TrabajoPracticoPrograII\\CineCordobaTp\\CineCordobaApi\\CineCordobaApi.csproj",
+  "projectFilePath": "D:\\EJERCICIOS TECNICATURA\\PROGRAMACION 2\\CineCordobaTp2\\CineCordobaTp2\\CineCordobaApi\\CineCordobaApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

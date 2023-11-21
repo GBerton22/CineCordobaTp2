@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmModificarCliente));
             lblClienteNro = new Label();
             cboBarrio = new ComboBox();
             txtApellido = new TextBox();
@@ -52,11 +53,14 @@
             dtpFechaNacimiento = new DateTimePicker();
             lblNombre = new Label();
             lblTipoDocumento = new Label();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // lblClienteNro
             // 
             lblClienteNro.AutoSize = true;
+            lblClienteNro.BackColor = Color.Transparent;
             lblClienteNro.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             lblClienteNro.Location = new Point(33, 82);
             lblClienteNro.Name = "lblClienteNro";
@@ -117,6 +121,7 @@
             // lblEmail
             // 
             lblEmail.AutoSize = true;
+            lblEmail.BackColor = Color.Transparent;
             lblEmail.Location = new Point(372, 226);
             lblEmail.Name = "lblEmail";
             lblEmail.Size = new Size(39, 15);
@@ -133,6 +138,7 @@
             // LblTitulo
             // 
             LblTitulo.AutoSize = true;
+            LblTitulo.BackColor = Color.Transparent;
             LblTitulo.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
             LblTitulo.Location = new Point(206, 22);
             LblTitulo.Name = "LblTitulo";
@@ -164,6 +170,7 @@
             // lblCalle
             // 
             lblCalle.AutoSize = true;
+            lblCalle.BackColor = Color.Transparent;
             lblCalle.Location = new Point(373, 393);
             lblCalle.Name = "lblCalle";
             lblCalle.Size = new Size(36, 15);
@@ -172,6 +179,7 @@
             // 
             // cboTipoDocumento
             // 
+            cboTipoDocumento.DropDownStyle = ComboBoxStyle.DropDownList;
             cboTipoDocumento.FormattingEnabled = true;
             cboTipoDocumento.Location = new Point(33, 422);
             cboTipoDocumento.Name = "cboTipoDocumento";
@@ -181,6 +189,7 @@
             // lblTelefono
             // 
             lblTelefono.AutoSize = true;
+            lblTelefono.BackColor = Color.Transparent;
             lblTelefono.Location = new Point(33, 226);
             lblTelefono.Name = "lblTelefono";
             lblTelefono.Size = new Size(58, 15);
@@ -190,6 +199,7 @@
             // lblFechaNacimiento
             // 
             lblFechaNacimiento.AutoSize = true;
+            lblFechaNacimiento.BackColor = Color.Transparent;
             lblFechaNacimiento.Location = new Point(33, 311);
             lblFechaNacimiento.Name = "lblFechaNacimiento";
             lblFechaNacimiento.Size = new Size(120, 15);
@@ -199,6 +209,7 @@
             // lblDocumento
             // 
             lblDocumento.AutoSize = true;
+            lblDocumento.BackColor = Color.Transparent;
             lblDocumento.Location = new Point(33, 468);
             lblDocumento.Name = "lblDocumento";
             lblDocumento.Size = new Size(73, 15);
@@ -208,6 +219,7 @@
             // lblAltura
             // 
             lblAltura.AutoSize = true;
+            lblAltura.BackColor = Color.Transparent;
             lblAltura.Location = new Point(373, 468);
             lblAltura.Name = "lblAltura";
             lblAltura.Size = new Size(42, 15);
@@ -217,6 +229,7 @@
             // lblBarrio
             // 
             lblBarrio.AutoSize = true;
+            lblBarrio.BackColor = Color.Transparent;
             lblBarrio.Location = new Point(373, 311);
             lblBarrio.Name = "lblBarrio";
             lblBarrio.Size = new Size(38, 15);
@@ -226,6 +239,7 @@
             // lblApellido
             // 
             lblApellido.AutoSize = true;
+            lblApellido.BackColor = Color.Transparent;
             lblApellido.Location = new Point(372, 129);
             lblApellido.Name = "lblApellido";
             lblApellido.Size = new Size(54, 15);
@@ -242,6 +256,7 @@
             // lblNombre
             // 
             lblNombre.AutoSize = true;
+            lblNombre.BackColor = Color.Transparent;
             lblNombre.Location = new Point(33, 129);
             lblNombre.Name = "lblNombre";
             lblNombre.Size = new Size(54, 15);
@@ -251,16 +266,30 @@
             // lblTipoDocumento
             // 
             lblTipoDocumento.AutoSize = true;
+            lblTipoDocumento.BackColor = Color.Transparent;
             lblTipoDocumento.Location = new Point(33, 393);
             lblTipoDocumento.Name = "lblTipoDocumento";
             lblTipoDocumento.Size = new Size(114, 15);
             lblTipoDocumento.TabIndex = 39;
             lblTipoDocumento.Text = "Tipo de documento:";
             // 
+            // pictureBox1
+            // 
+            pictureBox1.BackColor = Color.Transparent;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(231, 486);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(162, 166);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.TabIndex = 63;
+            pictureBox1.TabStop = false;
+            // 
             // FrmModificarCliente
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(620, 648);
             Controls.Add(lblClienteNro);
             Controls.Add(cboBarrio);
@@ -286,9 +315,12 @@
             Controls.Add(dtpFechaNacimiento);
             Controls.Add(lblNombre);
             Controls.Add(lblTipoDocumento);
+            Controls.Add(pictureBox1);
+            DoubleBuffered = true;
             Name = "FrmModificarCliente";
             Text = "FrmModificarCliente";
             Load += FrmModificarCliente_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -319,5 +351,6 @@
         private DateTimePicker dtpFechaNacimiento;
         private Label lblNombre;
         private Label lblTipoDocumento;
+        private PictureBox pictureBox1;
     }
 }

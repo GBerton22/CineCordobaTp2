@@ -14,11 +14,11 @@ namespace CineCordobaBack.Datos.Implementacion
 {
     public class ComprobanteDao: IComprobanteDao
     {
-        public bool CrearComprobante(DtoComprobantesR oComprobante)           //TRANSACCIONNNNNNNNNN
+        public bool CrearComprobante(DtoComprobantesR oComprobante)
         {
             bool aux = true;
             SqlConnection cnn = HelperDao.ObtenerInstancia().ObtenerConexion();
-            //int nroComp = HelperDao.ObtenerInstancia().ConsultaEscalar("SP_PROXIMO_COMPROBANTE", "@next");
+            
             SqlTransaction t = null;
 
             try
@@ -44,7 +44,7 @@ namespace CineCordobaBack.Datos.Implementacion
 
 
 
-                //cmdComprobante.ExecuteNonQuery();
+                
 
                 //INSERT DETALLES
                 int cantDetalles = 1;
@@ -276,7 +276,7 @@ namespace CineCordobaBack.Datos.Implementacion
         public List<DtoSucursales> ObtenerSucursales()
         {
             List<DtoSucursales> lSucursales = new List<DtoSucursales>();
-            DataTable tabla = HelperDao.ObtenerInstancia().Consultar("SP_SUCURSALESS");
+            DataTable tabla = HelperDao.ObtenerInstancia().Consultar("sp_sucursales");
             foreach (DataRow fila in tabla.Rows)
             {
 

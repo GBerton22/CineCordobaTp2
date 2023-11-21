@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmConsultarFunciones));
             lblConsultar = new Label();
             grpFiltros = new GroupBox();
             cboPeliculas = new ComboBox();
@@ -61,12 +62,14 @@
             lblSala = new Label();
             lblHorario = new Label();
             cboHorario = new ComboBox();
+            pictureBox1 = new PictureBox();
             lblModificarFuncion = new Label();
             botonCancelar = new Button();
             btnConfirmar = new Button();
             grpFiltros.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvFunciones).BeginInit();
             gbDatosFunciones.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // lblConsultar
@@ -84,6 +87,7 @@
             // 
             // grpFiltros
             // 
+            grpFiltros.BackColor = Color.Transparent;
             grpFiltros.Controls.Add(cboPeliculas);
             grpFiltros.Controls.Add(lblPelicula);
             grpFiltros.Controls.Add(label2);
@@ -236,6 +240,7 @@
             // 
             // gbDatosFunciones
             // 
+            gbDatosFunciones.BackColor = Color.Transparent;
             gbDatosFunciones.Controls.Add(cboNroFuncion);
             gbDatosFunciones.Controls.Add(lblNroFuncion);
             gbDatosFunciones.Controls.Add(comboPeliculas);
@@ -249,6 +254,7 @@
             gbDatosFunciones.Controls.Add(lblSala);
             gbDatosFunciones.Controls.Add(lblHorario);
             gbDatosFunciones.Controls.Add(cboHorario);
+            gbDatosFunciones.Controls.Add(pictureBox1);
             gbDatosFunciones.Location = new Point(787, 61);
             gbDatosFunciones.Margin = new Padding(4);
             gbDatosFunciones.Name = "gbDatosFunciones";
@@ -389,6 +395,17 @@
             cboHorario.Size = new Size(343, 23);
             cboHorario.TabIndex = 15;
             // 
+            // pictureBox1
+            // 
+            pictureBox1.BackColor = Color.Transparent;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(215, 239);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(189, 143);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.TabIndex = 72;
+            pictureBox1.TabStop = false;
+            // 
             // lblModificarFuncion
             // 
             lblModificarFuncion.AccessibleRole = AccessibleRole.None;
@@ -426,6 +443,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1259, 515);
             Controls.Add(btnConfirmar);
             Controls.Add(botonCancelar);
@@ -436,6 +455,8 @@
             Controls.Add(grpFiltros);
             Controls.Add(dgvFunciones);
             Controls.Add(btnSalir);
+            DoubleBuffered = true;
+            FormBorderStyle = FormBorderStyle.None;
             Name = "FrmConsultarFunciones";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Funciones";
@@ -445,6 +466,7 @@
             ((System.ComponentModel.ISupportInitialize)dgvFunciones).EndInit();
             gbDatosFunciones.ResumeLayout(false);
             gbDatosFunciones.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -486,5 +508,6 @@
         private Label lblModificarFuncion;
         private Button botonCancelar;
         private Button btnConfirmar;
+        private PictureBox pictureBox1;
     }
 }

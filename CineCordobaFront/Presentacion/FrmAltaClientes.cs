@@ -71,6 +71,7 @@ namespace CineCordobaFront.Presentacion
             cboTipoDoc.DataSource = ldoc;
             cboTipoDoc.ValueMember = "TipoDocId";
             cboTipoDoc.DisplayMember = "TipoDocumento";
+            cboTipoDoc.DropDownStyle = ComboBoxStyle.DropDownList;
         }
 
         private async Task CargarCiudadesAsync()
@@ -82,6 +83,8 @@ namespace CineCordobaFront.Presentacion
             cboCiudad.DataSource = lciudad;
             cboCiudad.ValueMember = "id_ciudad";
             cboCiudad.DisplayMember = "ciudad";
+            cboCiudad.DropDownStyle = ComboBoxStyle.DropDownList;
+            
         }
 
         private void cboCiudad_SelectedIndexChanged(object sender, EventArgs e)
@@ -99,6 +102,7 @@ namespace CineCordobaFront.Presentacion
             cboBarrio.DataSource = lbarrios;
             cboBarrio.ValueMember = "id_barrio";
             cboBarrio.DisplayMember = "NombreBarrio";
+            cboBarrio.DropDownStyle = ComboBoxStyle.DropDownList;
         }
 
 
